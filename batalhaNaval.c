@@ -4,8 +4,7 @@
 // Este código será para o desenvolvimento do sistema de Batalha Naval.
 
     // Nível Novato - Posicionamento dos Navios
-    #include <stdio.h>
-
+ 
 // Constantes do jogo
 const int TAM = 10;       // tamanho do tabuleiro (10x10)
 const int NAVIO = 3;      // valor que representa navio na matriz
